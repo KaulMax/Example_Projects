@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "VR_Test_Code",
+			"Path": "..\\Source\\VR_Test_Code.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "VR_Test_CodeEditor",
+			"Path": "..\\Source\\VR_Test_CodeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

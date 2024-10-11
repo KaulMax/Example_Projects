@@ -1,0 +1,31 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-VR_Test_Code.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Max Kaul\Test\VR_Code\VR_Test_Code\Intermediate\Build\Win64\x64\VR_Test_CodeEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"D:\Max Kaul\Test\VR_Code\VR_Test_Code\Intermediate\Build\Win64\x64\UnrealEditor\Development\VR_Test_Code\GrabComponent.gen.cpp.obj"
+"D:\Max Kaul\Test\VR_Code\VR_Test_Code\Intermediate\Build\Win64\x64\UnrealEditor\Development\VR_Test_Code\GrabObjectBase.gen.cpp.obj"
+"D:\Max Kaul\Test\VR_Code\VR_Test_Code\Intermediate\Build\Win64\x64\UnrealEditor\Development\VR_Test_Code\TP_PickUpComponent.gen.cpp.obj"
+"D:\Max Kaul\Test\VR_Code\VR_Test_Code\Intermediate\Build\Win64\x64\UnrealEditor\Development\VR_Test_Code\TP_WeaponComponent.gen.cpp.obj"
+"D:\Max Kaul\Test\VR_Code\VR_Test_Code\Intermediate\Build\Win64\x64\UnrealEditor\Development\VR_Test_Code\VRPlayer.gen.cpp.obj"
+"D:\Max Kaul\Test\VR_Code\VR_Test_Code\Intermediate\Build\Win64\x64\UnrealEditor\Development\VR_Test_Code\VR_Test_Code.init.gen.cpp.obj"
+"D:\Max Kaul\Test\VR_Code\VR_Test_Code\Intermediate\Build\Win64\x64\UnrealEditor\Development\VR_Test_Code\VR_Test_CodeCharacter.gen.cpp.obj"
+"D:\Max Kaul\Test\VR_Code\VR_Test_Code\Intermediate\Build\Win64\x64\UnrealEditor\Development\VR_Test_Code\VR_Test_CodeGameMode.gen.cpp.obj"
+"D:\Max Kaul\Test\VR_Code\VR_Test_Code\Intermediate\Build\Win64\x64\UnrealEditor\Development\VR_Test_Code\VR_Test_CodePlayerController.gen.cpp.obj"
+"D:\Max Kaul\Test\VR_Code\VR_Test_Code\Intermediate\Build\Win64\x64\UnrealEditor\Development\VR_Test_Code\VR_Test_CodeProjectile.gen.cpp.obj"
+"D:\Max Kaul\Test\VR_Code\VR_Test_Code\Intermediate\Build\Win64\x64\UnrealEditor\Development\VR_Test_Code\GrabComponent.cpp.obj"
+"D:\Max Kaul\Test\VR_Code\VR_Test_Code\Intermediate\Build\Win64\x64\UnrealEditor\Development\VR_Test_Code\GrabObjectBase.cpp.obj"
+"D:\Max Kaul\Test\VR_Code\VR_Test_Code\Intermediate\Build\Win64\x64\UnrealEditor\Development\VR_Test_Code\TP_PickUpComponent.cpp.obj"
+"D:\Max Kaul\Test\VR_Code\VR_Test_Code\Intermediate\Build\Win64\x64\UnrealEditor\Development\VR_Test_Code\TP_WeaponComponent.cpp.obj"
+"D:\Max Kaul\Test\VR_Code\VR_Test_Code\Intermediate\Build\Win64\x64\UnrealEditor\Development\VR_Test_Code\VRPlayer.cpp.obj"
+"D:\Max Kaul\Test\VR_Code\VR_Test_Code\Intermediate\Build\Win64\x64\UnrealEditor\Development\VR_Test_Code\VR_Test_Code.cpp.obj"
+"D:\Max Kaul\Test\VR_Code\VR_Test_Code\Intermediate\Build\Win64\x64\UnrealEditor\Development\VR_Test_Code\VR_Test_CodeCharacter.cpp.obj"
+"D:\Max Kaul\Test\VR_Code\VR_Test_Code\Intermediate\Build\Win64\x64\UnrealEditor\Development\VR_Test_Code\VR_Test_CodeGameMode.cpp.obj"
+"D:\Max Kaul\Test\VR_Code\VR_Test_Code\Intermediate\Build\Win64\x64\UnrealEditor\Development\VR_Test_Code\VR_Test_CodePlayerController.cpp.obj"
+"D:\Max Kaul\Test\VR_Code\VR_Test_Code\Intermediate\Build\Win64\x64\UnrealEditor\Development\VR_Test_Code\VR_Test_CodeProjectile.cpp.obj"
+"D:\Max Kaul\Test\VR_Code\VR_Test_Code\Intermediate\Build\Win64\x64\UnrealEditor\Development\VR_Test_Code\Default.rc2.res"
+/OUT:"D:\Max Kaul\Test\VR_Code\VR_Test_Code\Intermediate\Build\Win64\x64\UnrealEditor\Development\VR_Test_Code\UnrealEditor-VR_Test_Code.lib"

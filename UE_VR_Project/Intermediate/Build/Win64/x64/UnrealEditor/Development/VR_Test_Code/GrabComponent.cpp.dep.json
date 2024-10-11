@@ -1,0 +1,27 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\max kaul\\test\\vr_code\\vr_test_code\\source\\vr_test_code\\grabcomponent.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\max kaul\\test\\vr_code\\vr_test_code\\intermediate\\build\\win64\\x64\\vr_test_codeeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "d:\\max kaul\\test\\vr_code\\vr_test_code\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\vr_test_code\\definitions.vr_test_code.h",
+            "d:\\max kaul\\test\\vr_code\\vr_test_code\\source\\vr_test_code\\grabcomponent.h",
+            "d:\\max kaul\\test\\vr_code\\vr_test_code\\intermediate\\build\\win64\\unrealeditor\\inc\\vr_test_code\\uht\\grabcomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\headmounteddisplay\\public\\motioncontrollercomponent.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\public\\sceneviewextension.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\public\\sceneviewextensioncontext.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\sceneviewextensioncontext.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\public\\scenetexturesconfig.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\rendercore\\public\\gbufferinfo.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\headmounteddisplay\\public\\imotioncontroller.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\headmounteddisplay\\uht\\imotioncontroller.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\headmounteddisplay\\public\\lateupdatemanager.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\headmounteddisplay\\public\\iidentifiablexrdevice.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\headmounteddisplay\\uht\\iidentifiablexrdevice.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\headmounteddisplay\\uht\\motioncontrollercomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

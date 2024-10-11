@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\VR_Test_Code.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\VR_Test_Code.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\VR_Test_CodeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.gitignore" />
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\VR_Test_Code">
+      <UniqueIdentifier>{72922CD8-241D-3761-8BFB-21AFC4041F82}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\VR_Test_Code\GrabComponent.cpp">
+      <Filter>Source\VR_Test_Code</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VR_Test_Code\GrabComponent.h">
+      <Filter>Source\VR_Test_Code</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\VR_Test_Code\GrabObjectBase.cpp">
+      <Filter>Source\VR_Test_Code</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VR_Test_Code\GrabObjectBase.h">
+      <Filter>Source\VR_Test_Code</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\VR_Test_Code\TP_PickUpComponent.cpp">
+      <Filter>Source\VR_Test_Code</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VR_Test_Code\TP_PickUpComponent.h">
+      <Filter>Source\VR_Test_Code</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\VR_Test_Code\TP_WeaponComponent.cpp">
+      <Filter>Source\VR_Test_Code</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VR_Test_Code\TP_WeaponComponent.h">
+      <Filter>Source\VR_Test_Code</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\VR_Test_Code\VRPlayer.cpp">
+      <Filter>Source\VR_Test_Code</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VR_Test_Code\VRPlayer.h">
+      <Filter>Source\VR_Test_Code</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\VR_Test_Code\VR_Test_Code.Build.cs">
+      <Filter>Source\VR_Test_Code</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\VR_Test_Code\VR_Test_Code.cpp">
+      <Filter>Source\VR_Test_Code</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VR_Test_Code\VR_Test_Code.h">
+      <Filter>Source\VR_Test_Code</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\VR_Test_Code\VR_Test_CodeCharacter.cpp">
+      <Filter>Source\VR_Test_Code</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VR_Test_Code\VR_Test_CodeCharacter.h">
+      <Filter>Source\VR_Test_Code</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\VR_Test_Code\VR_Test_CodeGameMode.cpp">
+      <Filter>Source\VR_Test_Code</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VR_Test_Code\VR_Test_CodeGameMode.h">
+      <Filter>Source\VR_Test_Code</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\VR_Test_Code\VR_Test_CodePlayerController.cpp">
+      <Filter>Source\VR_Test_Code</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VR_Test_Code\VR_Test_CodePlayerController.h">
+      <Filter>Source\VR_Test_Code</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\VR_Test_Code\VR_Test_CodeProjectile.cpp">
+      <Filter>Source\VR_Test_Code</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VR_Test_Code\VR_Test_CodeProjectile.h">
+      <Filter>Source\VR_Test_Code</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

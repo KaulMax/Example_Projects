@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\max kaul\\test\\vr_code\\vr_test_code\\intermediate\\build\\win64\\unrealeditor\\inc\\vr_test_code\\uht\\vrplayer.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\max kaul\\test\\vr_code\\vr_test_code\\intermediate\\build\\win64\\x64\\vr_test_codeeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "d:\\max kaul\\test\\vr_code\\vr_test_code\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\vr_test_code\\definitions.vr_test_code.h",
+            "d:\\max kaul\\test\\vr_code\\vr_test_code\\source\\vr_test_code\\vrplayer.h",
+            "d:\\max kaul\\test\\vr_code\\vr_test_code\\intermediate\\build\\win64\\unrealeditor\\inc\\vr_test_code\\uht\\vrplayer.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\max kaul\\test\\vr_code\\vr_test_code\\source\\vr_test_code\\vr_test_codeprojectile.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\max kaul\\test\\vr_code\\vr_test_code\\intermediate\\build\\win64\\x64\\vr_test_codeeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "d:\\max kaul\\test\\vr_code\\vr_test_code\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\vr_test_code\\definitions.vr_test_code.h",
+            "d:\\max kaul\\test\\vr_code\\vr_test_code\\source\\vr_test_code\\vr_test_codeprojectile.h",
+            "d:\\max kaul\\test\\vr_code\\vr_test_code\\intermediate\\build\\win64\\unrealeditor\\inc\\vr_test_code\\uht\\vr_test_codeprojectile.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\projectilemovementcomponent.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\movementcomponent.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\movementcomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\projectilemovementcomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\components\\spherecomponent.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\spherecomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
