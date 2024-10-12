@@ -21,7 +21,7 @@
 * The SO will be placed on walls and has a funny little quirk, which I already spoiler a little bit in BTT_Use_SO_Distance, which is that the nav agent needs to be on a navmesh for the Unreal Engine smart object to be claimed.
 * This means that every BP_Behavior_WallJump needs a non-collidable mesh with a navmesh on it to function. There might have been a possibility to avoid this, for example, having the SO be associated with a jump position on
 * a wall and than place the SO on the ground, but this would be more work in the long run if I ever use this system.
-* But otherwise, I'm quite sure there could have been a workaround, but I couldn't find it and, at that point, had already spent too much time on it than I planned to.
+* But otherwise, I'm quite sure there could have been a better workaround, but I couldn't find it and, at that point, had already spent too much time on it than I planned to.
 */
 USO_Behavior_WallJump::USO_Behavior_WallJump()
 {
