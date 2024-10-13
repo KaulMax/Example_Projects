@@ -10,7 +10,7 @@
 #include "BehaviorTree/Blackboard/BlackboardKeyType_Bool.h"
 
 /*
-* 
+* Simple attack task for the opponent when the player is in overlap range
 * 
 */
 UBTT_PerformAttack::UBTT_PerformAttack()
