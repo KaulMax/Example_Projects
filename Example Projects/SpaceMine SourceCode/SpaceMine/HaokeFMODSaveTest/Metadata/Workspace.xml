@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="Workspace" id="{a534599d-2419-43cf-bd58-43fb4d53b137}">
+		<property name="builtBanksOutputDirectory">
+			<value>../Content/04_Audio/HaokeFMODConnectionTest</value>
+		</property>
+		<relationship name="masterEventFolder">
+			<destination>{14fb7860-3ec8-4b61-8e63-10212b282edc}</destination>
+		</relationship>
+		<relationship name="masterTagFolder">
+			<destination>{7b18f619-b3cd-4f20-81ae-98e94848c133}</destination>
+		</relationship>
+		<relationship name="masterEffectPresetFolder">
+			<destination>{c5535dfe-764e-4e1f-b5ad-8d68624182dc}</destination>
+		</relationship>
+		<relationship name="masterParameterPresetFolder">
+			<destination>{11a0cff5-6f81-47d9-bf44-b2fe2a76fc92}</destination>
+		</relationship>
+		<relationship name="masterBankFolder">
+			<destination>{1f51c7b0-d4e6-48fd-9731-9b38a085df3c}</destination>
+		</relationship>
+		<relationship name="masterSandboxFolder">
+			<destination>{4b7faf4d-b2f9-4d2e-a927-91a2afdee385}</destination>
+		</relationship>
+		<relationship name="masterAssetFolder">
+			<destination>{3f7e98a2-3a8d-4674-9df4-0bf9f511a1c7}</destination>
+		</relationship>
+		<relationship name="mixer">
+			<destination>{e04d9143-6b37-4d52-86c9-3f6faaedc26e}</destination>
+		</relationship>
+		<relationship name="profilerSessionFolder">
+			<destination>{1ee0e6f8-7202-4c2c-944b-ab24b7c9e4d4}</destination>
+		</relationship>
+		<relationship name="platforms">
+			<destination>{61b34591-614d-4c02-a867-a4ccd541220f}</destination>
+		</relationship>
+	</object>
+</objects>
